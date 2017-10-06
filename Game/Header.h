@@ -1,0 +1,10 @@
+#pragma once
+#include "resource.h"
+#include <Windows.h>
+#include <ctime>
+#include <WindowsX.h>
+#include <CommCtrl.h>
+#include <time.h>
+#include <stdlib.h>
+#include <stdio.h>
+#pragma comment(lib,"comctl32") 
